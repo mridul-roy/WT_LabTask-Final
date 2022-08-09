@@ -1,0 +1,86 @@
+body{
+	background-color:#3dddd885;
+	display:flex;
+	align-items:center;
+	justify-content:center;
+}
+.containerlogin{
+	background-color:rgb(212, 233, 90);
+	border-radius:5px;
+	box-shadow: 0 5px 5px #070107;
+	margin-top: 50px;
+	height:400px;
+	max-width:500%;
+	padding:35px 80px;
+
+}
+
+.logtitle{
+	background-color:rgb(88, 235, 227);
+	border-radius:5px;
+	box-shadow: 0 2px 5px #070107;
+	height:500px;
+	max-width:500%;
+	overflow:hidden;
+    padding:10px 100px;
+}
+
+.log1{
+	background-color:rgb(138, 108, 31);
+	border-radius:10px;
+	box-shadow: 0 2px 5px #070107;
+	height:30px;
+	max-width:200%;
+	overflow:hidden;
+    padding:1px 100px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
+
+body{
+	background-color:#3dddd885;
+	display:flex;
+	align-items:center;
+	justify-content:center;
+}
+.con10{
+	background-color:rgb(187, 221, 74);
+	border-radius:5px;
+	box-shadow: 0 5px 5px #070107;
+	height:800px;
+	max-width:500%;
+	overflow:hidden;
+}
+
+.logintitle{
+	background-color:rgb(88, 235, 227);
+	border-radius:5px;
+	box-shadow: 0 2px 5px #070107;
+	height:600px;
+	max-width:500%;
+	overflow:hidden;
+    padding:1px 100px;
+}
+.form{
+	padding:1px 100px;
+}
+.form-controlreg {
+	border:2px solid rgba(0, 0, 0, 0.474);
+	border-radius:10px;
+	display:block;
+	width:100%
+}*/
